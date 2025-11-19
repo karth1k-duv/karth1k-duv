@@ -1,16 +1,15 @@
-## Hi there 👋
+Aspiring Electrical Enginnering\Robotics Major
 
-<!--
-**karth1k-duv/karth1k-duv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Highschool Senior at LTHS
+- Orchestra Student
+- Robotics Teacher
+- Programming Lead for the FRC Team 7503 (Radicubs)
+- Old Account Linked
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+1. Autonomous Navigation via Custom Vision + Object Detection (In Progress)
+2. Comeptitive Robotics Introduction
+3. Building an indie game with GameMaker 2 (In Progress)
+4. FRC Reefscape 2025 Code (Completed)
+5. FRC Crescendo 2024 Code (Completed)
+6. Worked on Dislack (Discord - Slack Connection) with Mihir45 (Completed)
